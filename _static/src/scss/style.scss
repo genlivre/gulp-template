@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+// リセット
+@use "reset";
+
+// パーツ
+@use "components";
+
+// header
+@use "base/header";
+
+// main
+@use "base/main";
+
+// footer
+@use "base/footer";
